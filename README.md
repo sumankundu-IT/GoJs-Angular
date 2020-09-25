@@ -2,7 +2,7 @@
 
 ## Installation
 
-Start by running npm install to install all necessary dependencies.
+Start by running npm install to install all necessary dependencies
 
 ## Running the project
 
